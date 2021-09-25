@@ -1,5 +1,5 @@
 """
-project_name base module.
+tiagotardelli_api base module.
 """
 from fastapi import FastAPI
 
